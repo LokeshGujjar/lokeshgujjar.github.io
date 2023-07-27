@@ -31,7 +31,7 @@ body {
     text-align: center;
   }
   
-  .header.email, .header.twitter, .header.github, .header.instagram { display: none; }
+  .header.email, .header.twitter, .header.github, .header.instagram .header.peace { display: none; }
   
   .background {
     width: 100vm;
