@@ -64,3 +64,32 @@ body {
   
     opacity: 0;
   }
+
+  .btn {
+    background-color: transparent;
+    color: black;
+    border: none;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    color: #0099FF;
+  }
+
+  .controls {
+    display: flex;
+    justify-content: center;
+  }
+
+  .playing {
+    text-align: center;
+    color: white;
+  }
+
+  /* .song-name:hover {
+    color: white;
+  } */
+
+  .song-name {
+    color: white;
+  }
