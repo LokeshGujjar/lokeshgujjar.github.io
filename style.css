@@ -67,7 +67,7 @@ body {
 
   .btn {
     background-color: transparent;
-    color: black;
+    color: white;
     border: none;
     cursor: pointer;
   }
@@ -86,9 +86,9 @@ body {
     color: white;
   }
 
-  /* .song-name:hover {
+  .song-name:hover {
     color: white;
-  } */
+  }
 
   .song-name {
     color: white;
