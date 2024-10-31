@@ -89,3 +89,12 @@ body {
   .song-name {
     color: white;
   }
+
+  .hackid {
+    color: black;
+    
+  }
+
+  .hackid:hover {
+    color: red;
+  }
